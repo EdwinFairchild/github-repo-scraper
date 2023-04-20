@@ -1,5 +1,6 @@
 # github-repo-scraper
 ![pylint workflow](https://github.com/EdwinFairchild/github-repo-scraper/actions/workflows/pylint.yml/badge.svg)
+<br>
 Simple script to  scrape info from a github repo. Since this  is simple web scraping. <br>
 there is no need for web api or auth tokens, the intended use here is to track repos <br>
 you are not an owner of. The obvious caveat here is that the repo needs to be public.
